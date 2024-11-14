@@ -1,0 +1,4 @@
+1. CTexture 에셋 설계 중
+  - Load 함수 구현
+
+2. AssetMgr 를 통한 Texture 로딩 구현

@@ -1,0 +1,3 @@
+1. MATERIAL(재질) 에셋 추가
+
+2. RenderComponent 가 쉐이더를 직접 참조하지않고 재질을 참조하도록 변경

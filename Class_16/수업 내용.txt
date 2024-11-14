@@ -1,0 +1,5 @@
+1. DepthStencil State 제작
+
+2. BlendState 제작
+
+3. AlphaBlend 가 투명한 부분에 대해서 깊이를 남기는 문제 

@@ -1,0 +1,20 @@
+1. Material 에셋 설계
+  - 구현 및 개념 설명
+  - 재질과 렌더컴포넌트 사이에서 동적재질 개념 추가하기( 나중에.. )
+
+2. DebugRender
+  - DrawDebugRect, DrawDebugCircle
+  - DrawDebugLine 나중에...
+
+3. Camera 보완
+  - Orthographic 투영방식을 추가
+
+4. Collider2D
+   - Collider2D Component 구현
+   - GameObject 계층관계 설정
+
+
+
+
+5. Animator
+  - 2D Sprite Animation
